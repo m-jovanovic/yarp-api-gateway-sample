@@ -1,2 +1,3 @@
-# yarp-reverse-proxy-sample
-Example showing how to use the YARP reverse proxy as a gateway/load balancer for 2 APIs
+# YARP API Gateway Sample
+
+Example showing how to use the YARP reverse proxy as a gateway for 2 APIs ("microservices"):
